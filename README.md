@@ -1,5 +1,3 @@
-# wordbeater
-Word Beater game that challenges users to type the exact word in the given time
 # Word Beater App
 
 This is my first upload on GitHub. To practice, I downloaded some sample files for a "Pizza" website and uploaded them here.
